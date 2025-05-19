@@ -145,6 +145,3 @@
 
 ## 📄 라이센스
 MIT License
-
-## 📬 문의하기
-프로젝트에 관한 문의나 피드백은 [이슈](https://github.com/your-username/raindrop-front/issues)를 통해 남겨주세요.
